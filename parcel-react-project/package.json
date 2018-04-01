@@ -1,0 +1,18 @@
+{
+  "name": "parcel-react-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.7.0",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
